@@ -14,3 +14,4 @@ decreased. It's perfectly OK for some of the nodes to be only partially flled. (
 all nodes stay full, this operation would become just as expensive as the STL vector::erase operation!) If
 removing an element causes a node to become empty, the entire node should be removed from the list.
 
+![1](https://user-images.githubusercontent.com/71351207/111542708-75484e00-8748-11eb-8193-89f38ebd6008.PNG)
